@@ -7,4 +7,5 @@ The objective of the application is to show how Inheritance works, through the B
 ## ✨**Main View**✨
 
 Here is an example of what the app looks like when it runs.
+
 ![image](https://github.com/DarielEGM/animal_class/assets/123778387/205173b5-a7d1-463e-bf2f-faa7141ea73a)
