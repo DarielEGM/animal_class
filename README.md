@@ -1,4 +1,4 @@
-# animal_class![bat](https://github.com/DarielEGM/animal_class/assets/123778387/e422daa5-ee38-45c4-912e-864b551f47b5)
+# animal_class ![bat](https://github.com/DarielEGM/animal_class/assets/123778387/e422daa5-ee38-45c4-912e-864b551f47b5)
 
 This project was built with Python.
 
